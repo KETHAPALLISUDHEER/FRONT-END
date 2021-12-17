@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        .sudheer{
+            color: rgb(242, 239, 248);background-color: rgb(209, 0, 0);font-size: 300px;
+        }
+        
+      #kss{
+          color: gold;background-color: black;font-size: 200px;border: rgb(139, 0, 53);border-radius: 23px;
+      }
+        .k{
+             color: rgb(227, 236, 240);background-color: chartreuse;font-size: 200px;      font-style: italic;border: dotted;border-radius: 5px ;
+        }
+        h3,h4,p{
+            color: darkred;background-color: #05a813;font-style: oblique; font-size: 50px;
+        }
+        *{
+            background-color: rgb(238, 234, 18);color: rgb(91, 29, 199);
+        }
+        div{
+            background-color: rgb(1, 15, 6);
+        }
+        body>h2{
+            background-color: rgb(235, 14, 14);
+        }
+    </style>
+</head>
+<body>
+    <div>
+        <h3 style="background-color: red;">nandyal</h3>
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Repudiandae cum fuga atque, sed velit beatae delectus dolores quam quas? Eius iusto impedit maiores autem fugiat iste doloremque omnis incidunt officiis nam, aliquid quisquam natus culpa in eveniet deleniti! Laboriosam molestiae, sit enim exercitationem provident qui voluptatum nesciunt eaque libero iste.
+
+            </p>
+    </div>
+    <h1 sudheer="sudheer k ss" id="kss">class CR kss</h1>
+    <h2 class="k">kss sudheer cr cseb</h2>
+    <h3>heloo KSS</h3>
+    <h4>how r u</h4>
+    <p>kss from ndl</p>
+    <div>div1</div>
+    <h2>ssssssssssssss</h2>
+    <h2>dhkcwbckowenieocfnb </h2>
+    <div>divg2</div>
+    <h2>abcd</h2>
+    <div>div heading</div>
+ 
+</body>
+</html>

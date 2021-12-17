@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <table border="10"  style="background-color: blue;">
+        <tr>
+            <thead>
+                <th><style></style>  pin number       </th>
+                <th>name           </th>
+                <th>branch      </th>
+                <th>marks</th>
+            </thead>
+        </tr>
+        <!-- table data -->
+        <tr>
+            <tbody>
+                <td>591
+                </td>
+                <td>sudheer</td>
+                <td>cse</td>
+                <td>92</td>
+                        </tbody>
+        </tr>
+        <tr>
+            <tbody>
+                <td>593
+                </td>
+                <td>sai</td>
+                <td>cse</td>
+                <td>92</td>
+                        </tbody>
+        </tr>
+        <tr>
+            <tbody>
+                <td>594
+                </td>
+                <td>kssr</td>
+                <td>cse</td>
+                <td>95</td>
+                        </tbody>
+        </tr>
+        <tr>
+            <tbody>
+                <td>591
+                </td>
+                <td>sudheer</td>
+                <td>cse</td>
+                <td>92</td>
+                        </tbody>
+        </tr>
+        </tbody>
+    </table>
+    <img src="giet.jfif" alt="sudheer" width="1008px" height="200px"> <br>
+    <button>submit</button>
+    <hr>
+    <center>
+    <h1>Forms in html</h1>
+    <div>
+        <FORM>
+            <label for="uname"></label>username*</label> <br>
+         <input type="text" placeholder="enter username" id="uname" required> <br> 
+
+         <label for="ss">password</label>  <br>  
+         <input type="password" placeholder="enter password" id="ss" required> <br> 
+         <label for=""> email</label> <br>
+         <input type="email" placeholder="enter your email" required> <br>
+         <label for="">mobile</label><br>
+         <input type="number" placeholder="phone number">
+         <p>DATE</p>
+       <input type="date">
+       <label for="">month</label>
+<input type="month" placeholder="enter month"> <br>
+<label for="">year</label>
+<input type="year" placeholder="enter year"><br>
+<label for="">week</label>
+<input type="week" placeholder="enter week"><br>
+<label for="">time
+</label>
+<input type="time">
+         <p>GENDER</p>
+         <label for="">Male</label>
+         <input type="radio" name="GENDER"> 
+         <label for="">female</label>
+         <input type="radio" name="GENDER">  <br>
+         <!-- select -->
+        <label for="">languages</label> <br>
+         <select name="" id="">
+             <option>ENGLISH</option>
+             <option>maths</option>
+             <option>science</option>
+             </select> <br>
+             <p>checkbox</p>
+             <input type="checkbox" value="c">c <br>
+             <input type="checkbox" value="java">java <br>
+             <input type="checkbox" value="python">python <br>
+             <p>text-area</p>
+               <address>
+                   <textarea name="" id="" cols="`12" rows="10"></textarea>
+               </address>
+               <input type="search"><br>
+               <p>mail</p>
+               <a href="mailto:kethapallisudheer14@gmail.com">send</a><br>
+              
+         <input type="submit" value="submit">     
+        </FORM>
+    </div>
+    </center>
+    <video src="catmp4.mp4"controls="" ></video>
+    <audio src="CATY.mp3" controls=""></audio>
+    <audio src="catmp4.mp4"controls="" ></audio>
+    
+    
+</body>
+</html>
